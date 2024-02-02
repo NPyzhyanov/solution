@@ -1,0 +1,10 @@
+build*/
+*.pro.user
+QT/
+bin/
+obj/
+*.cbp
+*.depend
+*.layout
+x64/
+.vs/
